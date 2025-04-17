@@ -33,7 +33,7 @@ The application provides an interactive CLI interface where you can:
 
 ## Demo Video
 
-[Video demonstration of the application](INSERT_VIDEO_LINK_HERE)
+[Video demonstration of the application](https://app.screencastify.com/v3/watch/zzC2rEUOttJSBIOatSi8)
 
 ## Technologies Used
 
