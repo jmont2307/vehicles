@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ede35133-bf8c-4740-9345-0d81cf9a20d0",
+    "type": "car",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "color": "White",
+    "doors": 4,
+    "carType": "Sedan"
+  },
+  {
+    "id": "db25d9dc-9585-4b1d-9712-69b924c47666",
+    "type": "truck",
+    "make": "Ford",
+    "model": "F - 150",
+    "year": 2024,
+    "color": "Black",
+    "bedLength": 6,
+    "towingCapacity": 12000
+  },
+  {
+    "id": "26e63d57-3e28-44f8-9931-7f484e75bf44",
+    "type": "motorbike",
+    "make": "Kawasaki",
+    "model": "Ninja",
+    "year": 2019,
+    "color": "Matte Black",
+    "engineSize": 400,
+    "bikeType": "Sport"
+  }
+]
